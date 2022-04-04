@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @afit21
-- 👀 I’m interested in C#
-- 🌱 I’m currently learning about Neural networks
+- 🌱 I’m currently learning about Cloud Computing
 - 📫 email me at toetuuafi@gmail.com
 
 <!---
