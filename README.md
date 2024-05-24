@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @afit21
 - 🌱 I’m currently learning about Cloud Computing
-- 📫 email me at toetuuafi@gmail.com
+- 📫 email me at afihogan@gmail.com
 
 <!---
 afit21/afit21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
